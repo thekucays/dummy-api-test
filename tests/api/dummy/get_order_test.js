@@ -10,8 +10,8 @@ const testScenario = {
     describeCases: '[Dummy] Order Test: POST',
     POS01_successCase: 'POS01 should success get order data',
 
-    NEG01_invalidToken: 'NEG01 get error when get agent office with invalid token',
-    NEG02_nullToken: 'NEG02 get error when get get agent office without token',
+    NEG01_invalidToken: 'NEG01 get error when get order with invalid token',
+    NEG02_nullToken: 'NEG02 get error when get get order without token',
     NEG03_emptyToken: 'NEG03 get error with empty token',
 };
 
