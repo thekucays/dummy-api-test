@@ -7,6 +7,7 @@
 - for very first run, make sure npm is installed
 - after that execute this command `npm install`, then
 - `npm run test-api`
+- please keep note that test scenario result will be failed since its using dummy url, but the reports are generated properly
 
 ## Specifying test to be run by test name example: 
 On Linux / Mac: 
